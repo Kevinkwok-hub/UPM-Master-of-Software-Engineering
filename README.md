@@ -10,6 +10,36 @@
 - [@kevin kwok](https://github.com/Kevinkwok-hub)
 
 
+## 科研
+
+以下是一些常用的网站
+
+```bash
+  Paper Digest：https://www.paperdigest.org/
+
+  极市：https://www.cvmart.net/
+
+  Paper with Code：https://paperswithcode.com/
+
+  中国计算机学会：https://www.ccf.org.cn/
+
+  会议历年录用率：https://dengpingfan.github.io/pages/Accept.html
+
+  Overleaf：https://www.overleaf.com/
+
+  DeepL翻译：https://www.deepl.com/
+
+  Grammarly：https://www.grammarly.com/
+
+  Python绘图包：https://github.com/garrettj403/SciencePlots
+```
+
+
+## 学习路径
+
+![App Screenshot](https://img.picgo.net/2024/08/02/Snipaste_2024-08-02_12-18-13438cf839f34e1bb1.png)
+
+![App Screenshot](https://img.picgo.net/2024/08/02/Snipaste_2024-08-02_12-03-06ba6bf33983d91341.png)
 ## 反馈
 
 如果你有任何反馈，请联系我们：13146699620ke@gmail.com
